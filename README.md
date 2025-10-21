@@ -33,7 +33,7 @@ I specialize in **manual testing**, **API validation**, and **process improvemen
 ---
 
 ### 📊 GitHub Overview
-![Susanna's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default)
+![Susanna's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anna0229&show_icons=true&theme=default)
 
 ---
 
