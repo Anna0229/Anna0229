@@ -16,7 +16,7 @@ I specialize in **manual testing**, **API validation**, and **process improvemen
 
 ### 🧰 Technical Skills
 - **Testing Tools:** Postman, TestRail, JIRA, Trello  
-- **Automation (Learning):** Selenium, Python, Pytest  
+- **Automation:** Selenium, Python, Pytest  
 - **API Testing:** Postman, cURL  
 - **Version Control:** Git, GitHub  
 - **Test Types:** Functional, Regression, UI/UX, Smoke, Sanity, Exploratory  
